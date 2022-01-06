@@ -1,0 +1,160 @@
+#a1{
+    height: 5300px;
+    width: 100%;
+    background-color: rgb(189, 218, 226);
+    text-align: center;
+}
+#b2 {
+    height: 700px;
+    width: 100%
+}
+#a2{
+
+    height: 100px;
+    width: 100%;
+    background-color: white;
+}
+    #a3{
+
+        height: 320px;
+        width: 100%;
+        background-color: white;
+    }
+    
+    #a4{
+
+        height: 100px;
+        width: 100%;
+        background-color: white;
+    }
+    
+          #b2{
+             height: 200px;
+             width: 100%;
+             background-color: violet;
+         }
+         
+         
+         #a5{
+
+            height: 330px;
+            width: 100%;
+            background-color: white;}
+            #a6{
+                height: 528px;
+                width: 96%;
+                background-color: black;
+                color: rgb(129, 111, 111);
+
+                position: absolute;
+            }
+            .b4{
+                height: 450px;
+                width: 627px;
+                background-color:black;
+              top: -247px;
+                position: relative;
+            }
+            .b5{
+                position: relative;
+                top: 39px;
+                right: 35px;
+                font-size: 30px;
+                font-family: cursive;
+                color: white;
+            }
+            .b6{
+                position: relative;
+                top: 58px;
+                right: 165px;
+                font-size: 20px;
+                font-family: cursive;
+                color: white;
+            }
+            .b7{
+                position: relative;
+                top: 59px;
+                right: -66px;
+                font-size: 20px;
+                font-family: cursive;
+                color: white;
+            }
+            .b8{
+                position: relative;
+                top: 117px;
+                right: 195px;
+                font-size: 20px;
+                font-family: cursive;
+                color: white;
+            }
+            .b9{
+                position: relative;
+                top: 155px;
+                right: 117px;
+                font-size: 20px;
+                font-family: cursive;
+                color: white;
+            }
+            .b10{
+                position: relative;
+                top: 300px;
+                right: 292px;
+                font-size: 20px;
+                font-family: cursive;
+                color: white;
+            }
+
+            .b11{
+                position: relative;
+                top: 121px;
+                right: -394px;
+                font-size: 20px;
+                font-family: cursive;
+                color: white;
+            }
+            .b12{
+                position: relative;
+                top: 81px;
+                right: 143px;
+                font-size: 20px;
+                font-family: cursive;
+                color: white;
+            }
+            .b13{
+                position: relative;
+                top: 123px;
+                right: 242px;
+                font-size: 20px;
+                font-family: cursive;
+                color: white;
+            }
+
+            .b14{
+                position: relative;
+                top: 81px;
+                right: 71px;
+                font-size: 20px;
+                font-family: cursive;
+                color: white;
+            }
+            
+#a8{
+    height: 832px;
+    width: 100%;
+    
+    position: relative;
+    top: 68px;
+    
+}
+.a9{position: absolute;
+    top: 74px;
+    right: 24px;
+    
+                
+            
+}
+.a10{
+    position: absolute;
+    top: 74px;
+    right: 24px;
+}

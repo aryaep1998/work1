@@ -1,0 +1,12 @@
+#b1{
+    color:darkblue;
+    background-color: darkgray;
+    height: 300px;
+    width: 500px;
+    border: darkmagenta solid 2px;
+}
+#b2{
+    color: darkgoldenrod;
+    background-color: darkgreen;
+    border:darkorange solid 2px;
+}

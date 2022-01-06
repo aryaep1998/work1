@@ -1,0 +1,9 @@
+div{
+    height: 200px;
+    width: 300px;
+    background-color: brown;
+    position: fixed;
+    top: 100px;
+    bottom: 500px;
+    /* fixed */
+}

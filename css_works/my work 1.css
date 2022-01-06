@@ -1,0 +1,13 @@
+div{
+    height: 500px;
+    width: 300px;
+   background-color: blueviolet;
+   float: left;
+   border: solid black;
+   text-align: center;
+}img{
+    width:100%
+}
+div img{
+    width: 50%;
+}

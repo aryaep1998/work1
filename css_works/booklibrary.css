@@ -1,0 +1,20 @@
+div{
+    height: 564px;
+    width: 23%;
+    background-color: rgb(29, 160, 73);
+    border: rgb(15, 15, 15) solid 3px;
+    float: left;
+    text-align: center;
+    margin-left: 12px;
+    
+
+}
+body{
+    background-color: rgb(47, 18, 114);
+}
+div img{
+    width: 57%;
+height: 240px;
+margin-top: 10px;
+}
+

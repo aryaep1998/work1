@@ -1,0 +1,139 @@
+div{
+    height: 160px;
+    width: 100px;
+    
+}
+body{
+    background-color: black;
+}
+#b1{
+    background-color: gray;
+    margin-left: 300px;
+    margin-top: 100px;
+}
+#b2{
+    background-color: rgb(68, 218, 210);
+    margin-left: 410px;
+    margin-top: -159px;
+}
+#b3{
+    background-color: rgb(80, 223, 99);
+    margin-left: 520px;
+    margin-top: -159px;
+}
+#b4{
+    background-color: green;
+    margin-left: 630px;
+    margin-top:-159px ;
+}
+#b5{
+    background-color: honeydew;
+    margin-left: 740px;
+    margin-top: -159px;
+}
+#b6{
+    background-color: rgb(170, 118, 7);
+    margin-left:189px ;
+    margin-top: 12px;
+}
+#b7{
+    background-color:rgb(209, 85, 85) ;
+    margin-left:299px ;
+    margin-top: -159px;
+}#b8{
+    background-color: rgb(201, 143, 179);
+    margin-left:409px ;
+    margin-top: -160px;
+}
+#b9{
+    background-color: rgb(170, 94, 170);
+    margin-left:520px ;
+    margin-top:-159px ;
+}
+#b10{
+    background-color:rgb(100, 38, 158) ;
+    margin-left:630px ;
+    margin-top: -160px;
+}
+#b11{
+    background-color: rgb(149, 105, 190);
+    margin-left: 741px;
+    margin-top: -160px;
+}
+#b12{
+    background-color: rgb(184, 170, 170);
+    margin-left: 851px;
+    margin-top: -160px;
+}
+
+#a1{
+background-color: cadetblue;
+margin-left: 77px;
+margin-top: 14px;
+}
+#a2{
+   background-color: rgb(177, 182, 104); 
+   margin-left: 189px;
+   margin-top: -160px;
+}
+#a3{
+    background-color: rgb(231, 190, 114);
+    margin-left: 300px;
+    margin-top: -160px;
+}
+
+#a4{
+background-color: rgb(175, 26, 39);
+margin-left: 410px;
+margin-top: -160px;
+    
+}
+
+#a5{
+    background-color: rgb(39, 7, 7);
+    margin-left: 520px;
+    margin-top: -160px;
+}
+
+#a6{
+    background-color: mediumaquamarine;
+    margin-left: 630px;
+    margin-top:-160px ;
+}
+#a7{
+background-color: mediumturquoise;
+margin-left: 740px;
+margin-top: -160px;
+}
+#a8{
+    background-color: rgb(45, 110, 207);
+    margin-left: 850px;
+    margin-top: -160px;
+}
+#a9{
+    background-color: rgb(68, 4, 68);
+    margin-left: 960px;
+    margin-top: -160px;
+}
+h1{
+   text-align: center;
+    
+}
+
+#g1{
+    color: white
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+

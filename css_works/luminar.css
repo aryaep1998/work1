@@ -1,0 +1,53 @@
+@import url('https://fonts.googleapis.com/css2?family=Irish+Grover&family=Zen+Kurenaido&display=swap');
+
+
+
+
+h1{
+    color: aqua;
+}
+#a1{
+    color: rgb(138, 43, 226);
+}
+#a2{
+    color: chartreuse;
+}
+.c1
+{
+    color: chocolate;
+}
+#a3{
+    color: blueviolet;
+    
+}
+#a4{
+    color: brown;
+}
+#a5{
+    color: chartreuse;
+}
+.c2{
+    color: coral;
+}
+body{
+    background-color: cornflowerblue;
+}
+header{
+background-color: rgb(119, 113, 109);
+}
+main{
+background-color: coral;
+}
+footer{
+background-color: crimson;
+}
+#p1{
+    font-family: 'Irish Grover', cursive;
+font-size: x-large;
+}
+#p2{
+    
+    font-family: 'Zen Kurenaido', sans-serif;
+    font-size: xx-large;
+    }  
+}
